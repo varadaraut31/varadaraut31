@@ -54,14 +54,6 @@ I work on *CFD analysis, UAV flight dynamics, aerodynamic optimization, and miss
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=varadaraut31&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadaraut31&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌱 Currently Exploring
 
